@@ -12,5 +12,6 @@
        
 ### Additional Hotkeys in AHK Script:
     AltGr + y = ü
+    AltGr + n = ñ
     AltGr + 1 = ¡ 
-    AltGr + / = ¿ *(AKA. the ? key)*
+    AltGr + / = ¿  (AKA. the ? key)
