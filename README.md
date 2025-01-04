@@ -1,18 +1,16 @@
-# spanishKeyboardHotkeys
-AltGr + a = á
 
-AltGr + e = é
+# **Spanish Keyboard Hotkeys**
 
-AltGr + í = i
+*(SHIFT / CAPSLOCK will alter these to capitals)*
 
-AltGr + o = ó
-
-AltGr + u = ú
-
-AltGr + y = ü
-
-AltGr + 1 = ¡
-
-AltGr + / = ¿ (AKA. the ? key)
-
-SHIFT / CAPSLOCK will alter these to capitals
+### Default Windows Hotkeys:
+    AltGr + a = á
+    AltGr + e = é
+    AltGr + í = i
+    AltGr + o = ó
+    AltGr + u = ú
+       
+### Additional Hotkeys in AHK Script:
+    AltGr + y = ü
+    AltGr + 1 = ¡ 
+    AltGr + / = ¿ *(AKA. the ? key)*
